@@ -34,7 +34,7 @@ As a newbie programmer, my goals are:
 
 I'm always open to connecting with fellow developers and learning from their experiences. You can reach me through the following channels:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [mariyamsuraiya2@gmail.com](mailto:your-email@example.com)
 - LinkedIn: [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
 
 Thank you for visiting my GitHub profile, and I look forward to collaborating and sharing knowledge with the programming community!
