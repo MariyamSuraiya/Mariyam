@@ -32,9 +32,6 @@ As a newbie programmer, my goals are:
 
 ## 📫 Get in Touch
 
-I'm always open to connecting with fellow developers and learning from their experiences. You can reach me through the following channels:
-
-- LinkedIn:https://bd.linkedin.com/in/mariyam-suraiya-1a704427b
 
 Thank you for visiting my GitHub profile and I look forward to collaborating and sharing knowledge with the programming community!
 
